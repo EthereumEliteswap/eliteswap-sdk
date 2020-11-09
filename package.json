@@ -1,16 +1,16 @@
 {
-  "name": "@uniswap/sdk",
+  "name": "@eliteswap/sdk",
   "license": "MIT",
   "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Uniswap.",
+  "description": "🛠 An SDK for building applications on top of Elite swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/Uniswap/uniswap-sdk.git",
+  "repository": "https://github.com/EthereumEliteswap/eliteswap-sdk.git",
   "keywords": [
-    "uniswap",
+    "eliteswap",
     "ethereum"
   ],
   "module": "dist/sdk.esm.js",
@@ -22,7 +22,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@uniswap/v2-core": "^1.0.0",
+    "@eliteswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",
