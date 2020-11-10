@@ -1,14 +1,17 @@
 {
   "name": "@eliteswap/sdk",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "version": "3.0.3",
-  "description": "🛠 An SDK for building applications on top of Elite swap.",
+  "description": "🛠 An SDK for building applications on top of Elite Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/EthereumEliteswap/eliteswap-sdk.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthereumEliteswap/eliteswap-sdk.git"
+  },
   "keywords": [
     "eliteswap",
     "ethereum"
@@ -55,5 +58,13 @@
     "printWidth": 120,
     "semi": false,
     "singleQuote": true
-  }
+  },
+  "bugs": {
+    "url": "https://github.com/EthereumEliteswap/eliteswap-sdk/issues"
+  },
+  "homepage": "https://github.com/EthereumEliteswap/eliteswap-sdk#readme",
+  "directories": {
+    "test": "test"
+  },
+  "author": ""
 }
