@@ -859,9 +859,9 @@
     minimist "^1.2.0"
 
 "@eliteswap/v2-core@^1.0.0":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@eliteswap/v2-core/-/v2-core-1.0.2.tgz#f6ba66b39653f9945812c603f3d29098d5bae423"
-  integrity sha512-VJGt+ZhB2e7RagGxHxNTKQEMZ3fnGzCcngV8nodajgSGbCwT+gNWFri+qpwFMXe44RG2pcn0xrfRGwZn40Ufsg==
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@eliteswap/v2-core/-/v2-core-1.0.3.tgz#bf35d91bcc52843930b3ab19ab8fdf95737c253a"
+  integrity sha512-LwsvHC++mPIDHvWYew8PIYMFiN4dHdo8tDqO0gAX7y8TTNFO69I7yPFfnwf71plisJTdtQqLqVRtyFS48Kvz6w==
   dependencies:
     abstract-leveldown "^5.0.0"
     accepts "^1.3.7"
