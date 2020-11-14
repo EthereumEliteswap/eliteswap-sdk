@@ -1,7 +1,7 @@
 {
   "name": "@eliteswap/sdk",
   "license": "GPL-3.0-or-later",
-  "version": "3.0.3",
+  "version": "3.0.4",
   "description": "🛠 An SDK for building applications on top of Elite Swap.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
