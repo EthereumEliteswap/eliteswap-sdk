@@ -1,8 +1,8 @@
 {
   "name": "@eliteswap/sdk",
   "license": "GPL-3.0-or-later",
-  "version": "4.0.5",
-  "description": "🛠 An SDK for building applications on top of Elite Swap.",
+  "version": "4.0.6",
+  "description": "🛠 An SDK for building applications on top of Elite Swap for Binance Smart Chain.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
